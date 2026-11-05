@@ -1,0 +1,59 @@
+1
+10
+Roteador Central
+Roteador
+Sala de TI
+1
+25
+Switch Andar 1
+Switch
+Andar 1
+1
+40
+PC Recepcao
+Computador
+Recepcao
+1
+60
+Access Point
+Access Point
+Corredor
+2
+25
+2
+99
+4
+5
+6
+10
+25
+6
+10
+40
+6
+25
+60
+8
+10
+25
+8
+10
+60
+9
+10
+10
+10
+60
+11
+3
+10
+9
+25
+11
+7
+25
+60
+10
+25
+60
+0

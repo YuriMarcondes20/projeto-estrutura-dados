@@ -1,0 +1,88 @@
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID (inteiro positivo): Erro: valor fora do permitido (de 1 a 2147483647).
+ID (inteiro positivo): Erro: valor fora do permitido (de 1 a 2147483647).
+ID (inteiro positivo): Erro: valor invalido, digite apenas numeros.
+ID (inteiro positivo): Erro: valor invalido, digite apenas numeros.
+ID (inteiro positivo): Erro: numero grande demais.
+ID (inteiro positivo): Erro: digite um numero.
+ID (inteiro positivo): Nome: Erro: o campo nao pode ser vazio nem so espacos.
+Nome: Erro: o campo nao pode ser vazio nem so espacos.
+Nome: Erro: o texto deve ter no maximo 79 caracteres.
+Nome: Tipo de equipamento: Localizacao: Equipamento 77 cadastrado e vertice criado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: Erro: valor fora do permitido (de 0 a 11).
+Escolha uma opcao: ID 77 | yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy | Tipo X | Local Y
+Total: 1 | Menor ID: 77 | Maior ID: 77
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: Erro: valor invalido, digite apenas numeros.
+Escolha uma opcao: Erro: valor fora do permitido (de 0 a 11).
+Escolha uma opcao: Erro: valor fora do permitido (de 0 a 11).
+Escolha uma opcao: ID 77 | yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy | Tipo X | Local Y
+Total: 1 | Menor ID: 77 | Maior ID: 77
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: 
+Memoria liberada. Ate logo!

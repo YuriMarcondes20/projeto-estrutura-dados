@@ -31,6 +31,7 @@ void pilha_inicializar(Pilha *p);
 int  pilha_vazia(const Pilha *p);
 int  pilha_empilhar(Pilha *p, TipoAcao tipo, int id1, int id2); /* 1 = ok */
 int  pilha_desempilhar(Pilha *p, Acao *saida);                  /* 1 = ok */
+int  pilha_peek(const Pilha *p, Acao *saida);   /* espia o topo sem remover; 0 = vazia */
 void pilha_listar_ultimas(const Pilha *p, int n);  /* nao remove nada */
 void pilha_liberar(Pilha *p);
 

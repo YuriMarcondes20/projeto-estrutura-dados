@@ -63,6 +63,8 @@ static void teste_pilha(void) {
     printf("  historico (mais recente primeiro):\n");
     pilha_listar_ultimas(&p, 5);
     confere("pilha: listar nao remove", p.tamanho == 3);
+    confere("pilha: peek ve o topo sem remover",
+            pilha_peek(&p, &a) && a.tipo == ACAO_ADD_CONEXAO && p.tamanho == 3);
     confere("pilha: topo e a conexao",
             pilha_desempilhar(&p, &a) && a.tipo == ACAO_ADD_CONEXAO
             && a.id1 == 10 && a.id2 == 25);

@@ -1,0 +1,217 @@
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID (inteiro positivo): Nome: Tipo de equipamento: Localizacao: Equipamento 10 cadastrado e vertice criado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID (inteiro positivo): Nome: Tipo de equipamento: Localizacao: Erro: ja existe um equipamento com esse ID.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID do primeiro equipamento: ID do segundo equipamento: Erro: nao e permitido ligar um equipamento a ele mesmo.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID do primeiro equipamento: ID do segundo equipamento: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID do primeiro equipamento: ID do segundo equipamento: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID do primeiro equipamento: ID do segundo equipamento: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID a remover: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID do primeiro equipamento: ID do segundo equipamento: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID de origem: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID de origem: ID de destino: Erro: ID inexistente. Nada foi alterado.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: ID do primeiro equipamento: ID do segundo equipamento: Erro: nao e permitido ligar um equipamento a ele mesmo.
+
+============================================
+      SISTEMA DE ESTRUTURA DE DADOS
+============================================
+ 1 - Cadastrar equipamento (cria vertice)
+ 2 - Buscar equipamento (BST)
+ 3 - Remover equipamento e vertice/arestas
+ 4 - Listar equipamentos (BST em-ordem)
+ 5 - Ordenar e exibir equipamentos por nome
+ 6 - Adicionar conexao (aresta)
+ 7 - Remover conexao (aresta)
+ 8 - Consultar conexao direta
+ 9 - Listar alcancaveis (BFS + lista)
+10 - Verificar caminho entre dois IDs
+11 - Consultar historico (pilha)
+ 0 - Encerrar
+============================================
+Escolha uma opcao: 
+Memoria liberada. Ate logo!

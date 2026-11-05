@@ -39,6 +39,15 @@ int pilha_desempilhar(Pilha *p, Acao *saida) {
     return 1;
 }
 
+/* Peek: mostra o topo sem remover. */
+int pilha_peek(const Pilha *p, Acao *saida) {
+    if (p->topo == NULL) {
+        return 0;
+    }
+    *saida = p->topo->acao;
+    return 1;
+}
+
 /* Percorre a partir do topo (mais recente) sem remover nada. */
 void pilha_listar_ultimas(const Pilha *p, int n) {
     const NoPilha *atual = p->topo;

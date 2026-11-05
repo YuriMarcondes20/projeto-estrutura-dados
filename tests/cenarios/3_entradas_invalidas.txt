@@ -1,0 +1,21 @@
+1
+0
+-5
+abc
+12abc
+99999999999999999999
+
+77
+
+    
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+Tipo X
+Local Y
+99
+4
+abc
+15
+-1
+4
+0
